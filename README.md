@@ -1,6 +1,6 @@
 # midterm
 
-A new Flutter project.
+Some pages will need to be refreshed 2 times in order to work properly.
 
 ## How to use the app
 1.  First Page is login page, if user has no account, then clicking `Create An Account` will direct user to the `Creating An Account` page
